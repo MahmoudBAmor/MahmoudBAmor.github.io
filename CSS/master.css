@@ -1,0 +1,110 @@
+html{
+    background: url(../images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  font-family: 'Helvetica Neue', sans-serif;
+}
+body{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+.prof-box{
+    width: 400px;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    padding: 40px;
+    color: white;
+    margin: 0 auto; /*center an eliment*/
+    margin-top: 0px;
+    text-align: center;
+    padding-bottom: 0px;
+    
+}
+
+
+.prof-box img{
+    margin-top: 50px;
+}
+h1{
+    font-weight: 100;
+    letter-spacing: 6;
+    font-size: 40px;
+    
+}
+
+.prof-pic{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+p{
+    font-weight: 200;
+    letter-spacing: 1;
+}
+
+.social-media{
+    font-size: 40px;
+    height: 50px;
+    
+    
+}
+
+.social-media a{
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+.line-break{
+    width: 300px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-top: 1px solid white;
+    margin-bottom: 25px;
+}
+
+.line-break1{
+    width: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-top: 1px solid white;
+    padding-bottom: 7px;
+}
+
+.cv-portfolio {
+    border-top: 10px;
+    height: 280px;
+    padding-bottom: 10px;
+    
+}
+.cv-portfolio p{
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
+
+.cv-portfolio a:visited{
+    color: white;
+}
+.box :hover{
+    background-color: rgba(237, 230, 230, 0.3);
+}
+
+.cv-box{
+    width: 1100px;
+    height: 100%;
+    background: rgba(0,0,0,0.5);
+    padding: 40px;
+    color: white;
+    margin: 0 auto; /*center an eliment*/
+    margin-top: 0px;
+    text-align: center;
+    
+
+}
