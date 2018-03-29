@@ -146,6 +146,10 @@ a:visited{
     color: white;
 }
 
+a {
+    color: white;
+}
+
 /*********************************************************************************/
 
 @media screen and (max-width: 640px){
