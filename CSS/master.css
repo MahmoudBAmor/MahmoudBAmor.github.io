@@ -32,12 +32,10 @@ body{
 .prof-box img{
     /*margin-top: 50px;*/
     
-<<<<<<< HEAD
+
     max-width: 100%;
     height: auto;
-=======
-    
->>>>>>> c7464b4fa224eb321f64f0f6df529bb673663c45
+
 }
 h1{
     font-weight: 100;
